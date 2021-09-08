@@ -1,0 +1,11 @@
+(style:1)
+-------------------------------
+price=[10,20,4,5,4,6,46,43,4,64,65,8,45,55,558,15,5,4,6,5,255,5]
+price.sort()
+price.reverse()
+max=price[0]
+sec_max=price[1]
+print(price)
+#print f'"sec_max)
+print (" second_winner:",sec_max)
+#f'Hello to the {var2} {var1}'
